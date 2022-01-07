@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -24,4 +25,17 @@ section{
     font-weight: 700;
     padding: 10px 35px;
     border-radius: 5px;
+}
+.half-width-1{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width-1 img{
+    width: 60%;
+}
+.missuse-time{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
 }
