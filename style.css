@@ -1,0 +1,27 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.h1-color{
+    color: coral;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 60%;
+}
+.visit-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    color: ghostwhite;
+    font-weight: 700;
+    padding: 10px 35px;
+    border-radius: 5px;
+}
